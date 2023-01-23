@@ -17,7 +17,6 @@ docker run -it --rm --name my-app my-image-python
 
 ## Envoi de l'image Docker 
 
-
 ```sh
 
  docker tag my-image-python vanessakovalsky/my-image-python:latest
